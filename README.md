@@ -13,7 +13,7 @@ This repository hosts all practical assignments, educational code examples, and 
   Mohammad Javad Ahmadi  
   Ph.D. Candidate in Electrical & Control Engineering, K. N. Toosi University of Technology  
   AI & Data Engineering Specialist  
-  GitHub Profile: [Profile Link]  
+  GitHub Profile: [https://github.com/MJAHMADEE]  
 
 **Course Overview**  
 This course bridges foundational and cutting-edge concepts in **Artificial Intelligence and Robotics**, equipping students with modern deep learning methodologies and their practical implementation in real-world projects. Hands-on sessions are tailored to strengthen theoretical understanding while fostering technical expertise.  
